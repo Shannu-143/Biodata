@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<htm>
+    <head>
+        <title>Biodata</title>
+    </head>
+    <body>
+        <h1>MY BIODATA</h1>
+        <h2>Personal Information</h2>
+        <p>Name:Shanmugapriya L</p>
+        <p>Gender:Female</p>
+        <p>Date-of-Birth:02-09-2008</p>
+        <p>Nationality:Indian</p>        
+        <table border="7">
+            <tr>
+                <th>Language Known</th>
+            </tr>
+            <tr>
+                <td>Telugu</td>
+                
+            </tr>
+            <tr>
+                <td>English</td>
+            </tr>
+<tr>
+<td>Tamil</tr>
+</tr>
+        </table>
+        <h2>Contact Details</h2>
+        <p>E-Mail:shanmugapriyapathy@gmail.com</p>
+        <p>Address:chennai</p>
+        <table border="10">
+            <tr>
+                <th>School</th>
+                
+            </tr>
+            <tr>
+                <td>school</td>
+                <td>Velammal matric HR SEC school</td>
+            </tr>
+         </table>
+         <h2>Skills</h2>
+         <ol type="a">
+            <li>communication skills</li>
+         </ol>
+                 <h2>Hobbies</h2>
+         <ul>
+             <li>Playing Sports</li>
+            <li>Watching Movies</li>
+         </ul>        
+        </table>
+    
+</html>
